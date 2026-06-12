@@ -46,8 +46,8 @@ const Footer = () => {
   ];
 
   const contactInfo = [
-    { icon: Mail, text: "lakshyamishra099@gmail.com" },
-    { icon: Phone, text: "+91- 8770222006" },
+    { icon: Mail, text: "rakshita1972@gmail.com" },
+    { icon: Phone, text: "+91- 8770222***" },
     { icon: MapPin, text: "Indore, Madhya Pradesh" },
   ];
 
