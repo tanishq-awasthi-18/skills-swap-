@@ -1,6 +1,6 @@
 ## 🚀 Nexus Project 
 
-# 💡 Skill Swap Platform
+# 💡 Skill Swap 
  
 # A platform that enables individuals to exchange skills with others – a **Skill Swap Platform**. Users can offer skills they possess and request skills they want to learn, forming mutually beneficial collaborations.
 
@@ -71,4 +71,10 @@ cd backend
 npm install
 
 npm run dev
+
+## Author
+
+"" Tanishq Awasthi ""
+Github : https://github.com/tanishq-awasthi-18
+
 
